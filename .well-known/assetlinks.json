@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "de.wegovti.unfallaufnahme",
+        "sha256_cert_fingerprints": ["8D:7E:3F:09:A5:E6:15:8A:26:D6:A0:47:1B:67:7D:CB:7F:4C:10:40:BB:51:B9:E9:CE:3C:0D:1B:BA:61:99:A4"]
+      }
+    }]
