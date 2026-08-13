@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "de.wegovti.unfallaufnahme",
-        "sha256_cert_fingerprints": ["8D:7E:3F:09:A5:E6:15:8A:26:D6:A0:47:1B:67:7D:CB:7F:4C:10:40:BB:51:B9:E9:CE:3C:0D:1B:BA:61:99:A4"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.wegovti.unfallaufnahme",
+    "sha256_cert_fingerprints": ["F6:AA:B5:BA:39:A6:0B:93:41:3D:41:02:20:88:A2:E0:CD:90:E7:EF:84:42:4E:DD:AA:B8:A0:4B:0B:97:F7:51"]
+  }
+}]
